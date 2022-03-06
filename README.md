@@ -11,4 +11,5 @@ Preprocessing: So far what I have read is that it is easier to detect generated 
 
 Additional Notes: I was origionally planning on working alone for this project. However Alessandra and I realized we were both without partners for this project, and are thinking of working together. However we decided to submit initally two different proposals in order to get feedback on which project seems more fesible in the time contraints we have.
 
-Description - Bike share prediction: 
+Bike share prediction, Description & Preporossing: 
+https://github.com/avenenma/BikeShare/blob/main/Milestone1.ipynb
